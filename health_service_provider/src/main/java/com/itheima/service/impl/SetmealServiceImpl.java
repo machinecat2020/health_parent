@@ -132,4 +132,10 @@ public class SetmealServiceImpl implements SetmealService {
             }
         }
     }
+
+    //查询套餐预约占比数据
+    public List<Map<String, Object>> findSetmealCount() {
+        return setmealDao.findSetmealCount();
+    }
+
 }

@@ -13,4 +13,5 @@ public interface SetmealDao {
     public Page<CheckItem> findByCondition(String queryString);
     public List<Setmeal> findAll();
     public Setmeal findById4Detail(Integer id);
+    public List<Map<String, Object>> findSetmealCount();
 }
