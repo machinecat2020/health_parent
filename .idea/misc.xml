@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/health_jobs" />
     <file type="web" url="file://$PROJECT_DIR$/health_mobile" />
     <file type="web" url="file://$PROJECT_DIR$/health_service_provider" />
+    <type id="Spring" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
